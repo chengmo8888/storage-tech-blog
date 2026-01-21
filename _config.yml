@@ -1,0 +1,6 @@
+title: Storage Solutions Architecture Blog
+description: Technical blog powered by GitHub Pages
+theme: minima
+
+markdown: kramdown
+highlighter: rouge
